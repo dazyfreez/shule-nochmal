@@ -4,11 +4,14 @@ public class addieren {
         for (int i =1; i<=n; i++)
         {
             erg= erg+i;
+  
         }
         return erg;
+        System.out.println("das ist der wer");
+
     }
         
-    
+     
 }      
     
 
